@@ -151,9 +151,9 @@ def Asteroids():
     fig.savefig('asteroids_final.png') # uncomment to save plot
 
     plt.show()
-#Asteroids()
+#Asteroids() #uncomment to run code and add data to histogram
 
-def histogram(): #time to plot the histogram
+def histogram(): #time to plot the histogram 
     import matplotlib.pyplot as plt
     import numpy as np
     import matplotlib
